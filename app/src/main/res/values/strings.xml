@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="calc">Calcular</string>
+    <string name="cant">Cantidad: </string>
+    <string name="cantB">Cantidad de Billetes</string>
+    <string name="cantM">Cantidad de Monedas</string>
+    <string name="cantC">Cantidad de Centavos</string>
+    <string name="d100">De 100</string>
+    <string name="d50">De 50</string>
+    <string name="d20">De 20</string>
+    <string name="d5">De 5</string>
+    <string name="d2">De 2</string>
+    <string name="d1">De 1</string>
+    <string name="d10">De 10</string>
+</resources>
